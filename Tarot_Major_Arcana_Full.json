@@ -1,0 +1,310 @@
+[
+  {
+    "id":0,
+    "name":"The Fool",
+    "upright_meaning":"New beginnings, spontaneity, free spirit, leap of faith.",
+    "reversed_meaning":"Recklessness, naivety, fear of the unknown.",
+    "keywords":[
+      "new start",
+      "adventure",
+      "freedom",
+      "innocence",
+      "risk"
+    ],
+    "theme":"Beginning"
+  },
+  {
+    "id":1,
+    "name":"The Magician",
+    "upright_meaning":"Manifestation, power, resourcefulness, inspired action.",
+    "reversed_meaning":"Manipulation, poor planning, untapped talents.",
+    "keywords":[
+      "manifest",
+      "create",
+      "focus",
+      "tools",
+      "potential"
+    ],
+    "theme":"Creation"
+  },
+  {
+    "id":2,
+    "name":"The High Priestess",
+    "upright_meaning":"Intuition, subconscious, mystery, divine feminine.",
+    "reversed_meaning":"Secrets, hidden agendas, disconnected intuition.",
+    "keywords":[
+      "intuition",
+      "mystery",
+      "silence",
+      "spirituality",
+      "secrets"
+    ],
+    "theme":"Inner Wisdom"
+  },
+  {
+    "id":3,
+    "name":"The Empress",
+    "upright_meaning":"Fertility, abundance, nurturing, femininity.",
+    "reversed_meaning":"Creative block, dependence, disharmony.",
+    "keywords":[
+      "growth",
+      "beauty",
+      "creation",
+      "motherhood",
+      "love"
+    ],
+    "theme":"Nurturing"
+  },
+  {
+    "id":4,
+    "name":"The Emperor",
+    "upright_meaning":"Authority, structure, stability, father figure.",
+    "reversed_meaning":"Domination, rigidity, control issues.",
+    "keywords":[
+      "leadership",
+      "discipline",
+      "rules",
+      "power",
+      "order"
+    ],
+    "theme":"Control"
+  },
+  {
+    "id":5,
+    "name":"The Hierophant",
+    "upright_meaning":"Tradition, spiritual wisdom, conformity, education.",
+    "reversed_meaning":"Rebellion, personal beliefs, non-conformity.",
+    "keywords":[
+      "tradition",
+      "belief",
+      "wisdom",
+      "structure",
+      "guidance"
+    ],
+    "theme":"Spiritual Authority"
+  },
+  {
+    "id":6,
+    "name":"The Lovers",
+    "upright_meaning":"Love, harmony, relationships, values alignment.",
+    "reversed_meaning":"Disharmony, imbalance, misalignment of values.",
+    "keywords":[
+      "love",
+      "union",
+      "partnership",
+      "choices",
+      "balance"
+    ],
+    "theme":"Connection"
+  },
+  {
+    "id":7,
+    "name":"The Chariot",
+    "upright_meaning":"Victory, willpower, determination, control.",
+    "reversed_meaning":"Aggression, lack of direction, self-doubt.",
+    "keywords":[
+      "victory",
+      "drive",
+      "focus",
+      "movement",
+      "success"
+    ],
+    "theme":"Achievement"
+  },
+  {
+    "id":8,
+    "name":"Strength",
+    "upright_meaning":"Courage, inner strength, compassion, patience.",
+    "reversed_meaning":"Self-doubt, insecurity, lack of control.",
+    "keywords":[
+      "strength",
+      "courage",
+      "calm",
+      "resilience",
+      "inner power"
+    ],
+    "theme":"Endurance"
+  },
+  {
+    "id":9,
+    "name":"The Hermit",
+    "upright_meaning":"Introspection, solitude, inner guidance, wisdom.",
+    "reversed_meaning":"Isolation, loneliness, withdrawal.",
+    "keywords":[
+      "solitude",
+      "reflection",
+      "wisdom",
+      "guidance",
+      "seeking"
+    ],
+    "theme":"Reflection"
+  },
+  {
+    "id":10,
+    "name":"Wheel of Fortune",
+    "upright_meaning":"Change, cycles, fate, turning points.",
+    "reversed_meaning":"Bad luck, resistance to change, external forces.",
+    "keywords":[
+      "fate",
+      "cycle",
+      "chance",
+      "destiny",
+      "change"
+    ],
+    "theme":"Karma"
+  },
+  {
+    "id":11,
+    "name":"Justice",
+    "upright_meaning":"Justice, fairness, truth, law, cause and effect.",
+    "reversed_meaning":"Dishonesty, unfairness, lack of accountability.",
+    "keywords":[
+      "fairness",
+      "truth",
+      "balance",
+      "law",
+      "karma"
+    ],
+    "theme":"Accountability"
+  },
+  {
+    "id":12,
+    "name":"The Hanged Man",
+    "upright_meaning":"Surrender, new perspective, letting go, suspension.",
+    "reversed_meaning":"Stalling, fear of sacrifice, indecision.",
+    "keywords":[
+      "pause",
+      "perspective",
+      "release",
+      "transition",
+      "sacrifice"
+    ],
+    "theme":"Surrender"
+  },
+  {
+    "id":13,
+    "name":"Death",
+    "upright_meaning":"Transformation, endings, transition, rebirth.",
+    "reversed_meaning":"Resistance to change, fear, stagnation.",
+    "keywords":[
+      "rebirth",
+      "change",
+      "endings",
+      "letting go",
+      "evolution"
+    ],
+    "theme":"Transformation"
+  },
+  {
+    "id":14,
+    "name":"Temperance",
+    "upright_meaning":"Balance, moderation, purpose, patience, healing.",
+    "reversed_meaning":"Imbalance, excess, lack of long-term vision.",
+    "keywords":[
+      "balance",
+      "harmony",
+      "healing",
+      "flow",
+      "moderation"
+    ],
+    "theme":"Harmony"
+  },
+  {
+    "id":15,
+    "name":"The Devil",
+    "upright_meaning":"Addiction, materialism, bondage, temptation.",
+    "reversed_meaning":"Releasing limitations, freedom, reclaiming power.",
+    "keywords":[
+      "addiction",
+      "temptation",
+      "bondage",
+      "control",
+      "shadow"
+    ],
+    "theme":"Temptation"
+  },
+  {
+    "id":16,
+    "name":"The Tower",
+    "upright_meaning":"Sudden change, upheaval, chaos, awakening.",
+    "reversed_meaning":"Avoidance of disaster, delayed revelation, fear of change.",
+    "keywords":[
+      "destruction",
+      "shock",
+      "revelation",
+      "awakening",
+      "collapse"
+    ],
+    "theme":"Disruption"
+  },
+  {
+    "id":17,
+    "name":"The Star",
+    "upright_meaning":"Hope, inspiration, renewal, spiritual clarity.",
+    "reversed_meaning":"Lack of faith, despair, disconnection.",
+    "keywords":[
+      "hope",
+      "healing",
+      "faith",
+      "renewal",
+      "guidance"
+    ],
+    "theme":"Inspiration"
+  },
+  {
+    "id":18,
+    "name":"The Moon",
+    "upright_meaning":"Illusion, intuition, dreams, subconscious.",
+    "reversed_meaning":"Fear, anxiety, confusion, misinterpretation.",
+    "keywords":[
+      "illusion",
+      "mystery",
+      "dreams",
+      "intuition",
+      "shadow"
+    ],
+    "theme":"Subconscious"
+  },
+  {
+    "id":19,
+    "name":"The Sun",
+    "upright_meaning":"Joy, success, positivity, vitality, clarity.",
+    "reversed_meaning":"Temporary sadness, inflated ego, unrealistic outlook.",
+    "keywords":[
+      "joy",
+      "success",
+      "clarity",
+      "energy",
+      "celebration"
+    ],
+    "theme":"Vitality"
+  },
+  {
+    "id":20,
+    "name":"Judgement",
+    "upright_meaning":"Judgement, rebirth, inner calling, absolution.",
+    "reversed_meaning":"Self-doubt, lack of self-awareness, failure to learn lessons.",
+    "keywords":[
+      "awakening",
+      "rebirth",
+      "truth",
+      "forgiveness",
+      "calling"
+    ],
+    "theme":"Awakening"
+  },
+  {
+    "id":21,
+    "name":"The World",
+    "upright_meaning":"Completion, integration, accomplishment, travel.",
+    "reversed_meaning":"Lack of closure, incompletion, delays.",
+    "keywords":[
+      "completion",
+      "success",
+      "wholeness",
+      "achievement",
+      "journey"
+    ],
+    "theme":"Fulfillment"
+  }
+]
